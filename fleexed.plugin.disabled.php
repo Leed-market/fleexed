@@ -4,7 +4,7 @@
   @name Fleexed
   @author gavrochelegnou <gavrochelegnou@trashmail.net>
   @licence CC by nc sa http://creativecommons.org/licenses/by-nc-sa/2.0/fr/
-  @version 1.1.0
+  @version 1.1.1
   @description Repositionne les menus en position fixed
  */
 
